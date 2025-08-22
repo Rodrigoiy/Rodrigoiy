@@ -8,11 +8,7 @@
 <br>
 • Desenvolvedor Full-Stack, com experiência em:
 <br>
-🔹Back-end: PHP com Laravel
-<br>
-🔹Front-end: HTML, Tailwind CSS, JavaScript
-<br>
-🔹Banco de dados: MySQL
+🔹PHP / Laravel, HTML, Tailwind CSS, JavaScript, MySQL
 
 ---
 <br>
