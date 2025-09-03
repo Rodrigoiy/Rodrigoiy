@@ -6,7 +6,7 @@
 <br>
 • Focado em Desenvolvimento Web
 <br>
-• Desenvolvedor Full-Stack, com experiência em:
+• Stack:
 <br>
 🔹PHP (Laravel), HTML, CSS (Tailwind), JavaScript, MySQL
 
